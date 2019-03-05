@@ -1,0 +1,2 @@
+# sql
+EBS SQL scripts
